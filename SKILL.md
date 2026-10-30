@@ -6,6 +6,7 @@ description: >
   unjustified significance, and conclusions that exceed the study's evidence.
   Designed for engineering and simulation papers, but usable across research manuscripts.
 version: 1.0
+  中文触发：论断证据核查、命题证据映射、因果措辞；English triggers: claim evidence check, causal wording audit.
 ---
 
 # Claim–Evidence Checker
@@ -330,3 +331,8 @@ Do not:
 - assume validation of one output validates all outputs
 - call a claim false when it is merely unsupported
 - rewrite the entire Discussion unless requested
+
+## Optional v3 research-group interface
+
+This Skill remains independently usable. When the user requests cross-Skill work or a located finding genuinely needs another specialist, read `references/research-group-interop-v3.md` on demand. Own **Map exact manuscript claims to located evidence and label unsupported leaps**; do not silently take over **Assign final manuscript-wide scientific Severity or independently verify unseen external sources**. Never pretend a named tool or Skill was invoked. Reuse evidence with source/version, keep one issue owner, and return a short handoff record rather than a duplicate full audit.
+
