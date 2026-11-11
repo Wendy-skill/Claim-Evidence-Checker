@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this Skill, please cite it using these metadata."
+type: software
+title: "Claim–Evidence Checker"
+authors:
+  - given-names: "wendy.z"
+    alias: "Wendy-skill"
+abstract: >-
+  A research-paper Skill focused on one question:
+repository-code: "https://github.com/Wendy-skill/Claim-Evidence-Checker"
+license: Apache-2.0
